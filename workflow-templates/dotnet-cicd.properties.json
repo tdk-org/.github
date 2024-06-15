@@ -1,0 +1,12 @@
+{
+    "name": "TDK Org DotNet CICD Workflow",
+    "description": "TDK Org DotNet starter CICD Workflow",
+    "iconName": "netcoresvg",
+    "categories": [
+        "Dot Net"
+    ],
+    "filePatterns": [
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
