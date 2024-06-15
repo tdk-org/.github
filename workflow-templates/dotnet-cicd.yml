@@ -1,5 +1,5 @@
 name: DotNet Build And Test
-run-nam: Workflow triggered by ${{github.actor}}
+run-name: Workflow triggered by ${{github.actor}}
 on: 
   push:
     branches: [ $default-branch ]
